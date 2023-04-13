@@ -1,0 +1,47 @@
+# PWM Project gitignore files
+
+# Eclipse Project Files
+/.project
+/.settings
+/.classpath
+
+# IntelliJ Project Files
+**/.idea/
+**/*.iml
+*/.idea/
+*/*.iml
+
+# OS folder info
+.directory
+.DS_Store
+.DS_Store?
+
+# Maven Output
+*/target
+
+
+/target
+/webapp/src/main/webapp/public/resources/themes/netiq
+/webapp/src/main/webapp/public/resources/themes/netiq32
+/webapp/src/main/webapp/public/resources/themes/idm
+/webapp/src/main/webapp/public/resources/themes/mdefault
+/webapp/src/main/webapp/public/resources/themes/mdefault44
+
+# VS Code Project Files
+.vscode/*
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+**/.settings/
+*/.settings/
+**/*.classpath
+*/*.classpath
+**/*.factorypath
+*/*.factorypath
+**/*.project
+*/*.project
+
+
